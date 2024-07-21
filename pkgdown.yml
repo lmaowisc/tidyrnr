@@ -2,7 +2,7 @@ pandoc: 3.1.11
 pkgdown: 2.1.0
 pkgdown_sha: ~
 articles: {}
-last_built: 2024-07-21T00:55Z
+last_built: 2024-07-21T01:03Z
 urls:
   reference: https://lmaowisc.github.io/tidyrnr/reference
   article: https://lmaowisc.github.io/tidyrnr/articles
