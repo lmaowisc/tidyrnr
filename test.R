@@ -163,6 +163,7 @@ install()
 
 
 use_pkgdown_github_pages()
+use_readme_rmd()
 build_readme()
 
 # Run once to configure your package to use pkgdown
