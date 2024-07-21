@@ -6,7 +6,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of tidyrnr is to …
+The goal of tidyrnr is to perform repeatability and reproducibility
+analysis with ease.
 
 ## Installation
 
