@@ -4,8 +4,21 @@
 \name{tidyrnr-package}
 \alias{tidyrnr}
 \alias{tidyrnr-package}
-\title{tidyrnr: What the Package Does (Title Case)}
+\title{tidyrnr: Repeatability and reproducibility analysis}
 \description{
-More about what it does (maybe more than one line) Use four spaces when indenting paragraphs within the Description.
+Make R&R analysis easier.
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/lmaowisc/tidyrnr}
+  \item \url{https://lmaowisc.github.io/tidyrnr/}
+  \item Report bugs at \url{https://github.com/lmaowisc/tidyrnr/issues}
+}
+
+}
+\author{
+\strong{Maintainer}: Lu Mao \email{lmao@biostat.wisc.edu} (\href{https://orcid.org/0000-0002-8626-9822}{ORCID})
+
 }
 \keyword{internal}
